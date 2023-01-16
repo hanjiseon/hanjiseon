@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6CE99A&height=190&section=header&text=jiseon%20Han&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6CE99A&height=200&section=header&text=jiseon%20Han&fontSize=90" />
 </div>
 
 <h2 align="center">📚 Platforms & Languages 📚</h2>
