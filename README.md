@@ -21,5 +21,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=vue)
 
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=han003626@gmail.com"/></a>
+
 
 
