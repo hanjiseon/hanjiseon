@@ -21,7 +21,7 @@
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=default)
 [![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=hanjiseon&langs_count=10&layout=compact)]()
 
 
