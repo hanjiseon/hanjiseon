@@ -17,8 +17,10 @@
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
-
+<div>
 <h3 align="center">🌈 Follow Me 🌈</h3>
+</div>
+	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=vue)
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
