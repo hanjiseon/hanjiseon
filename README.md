@@ -18,6 +18,7 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=vue)
 </div>
