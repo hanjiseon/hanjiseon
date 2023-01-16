@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">📚 Platforms & Languages 📚</h3>
-<h1 align="center">Tech that l've used at least once</h1><br />
+<p align="center">Tech that l've used at least once</p><br />
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />&nbsp
@@ -15,7 +15,7 @@
 	<img src="https://img.shields.io/badge/JavaScrpit-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />&nbsp
 </div>	
 <div align="center">
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon&logoColor=white" />&nbsp
+	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
