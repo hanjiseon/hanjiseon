@@ -1,5 +1,6 @@
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=jiseon%20Han&fontSize=90" />
+</div>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -19,10 +20,13 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=vue)
+</div>
 
-
+<div align="center">
 [![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=hanjiseon&langs_count=10&layout=compact)]()
+</div>
 
 
 <!--
