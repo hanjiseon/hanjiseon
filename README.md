@@ -12,7 +12,6 @@
 	<img src="https://img.shields.io/badge/JavaScrpit-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />&nbsp
-	
 </div>	
 <div align="center">
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />&nbsp
@@ -30,9 +29,6 @@
 
 <h3 align="center">✨ Contact ✨</h3>
 <p align="center">
-<!--  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flatsquare&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp -->
+<!--  <a href="https://velog.io/@"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flatsquare&logo=Vimeo&logoColor=white&link=https://velog.io/@"/></a>&nbsp -->
   <a href="mailto:han003626@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=han003626@gmail.com"/></a>
 </p>
-
-
-
