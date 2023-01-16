@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jiseon%20Han&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=green&height=200&section=header&text=jiseon%20Han&fontSize=50" />
 
 
 
