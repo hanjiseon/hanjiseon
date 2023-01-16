@@ -18,15 +18,16 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 
-<div>
-<h3>💻 My Github Stats 💻</h3>
+
+<h3 align="center">💻 My Github Stats 💻</h3>
 </div>
 <br />
-
+<div align="center">
+	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=vue)
+</div>
 
-
-<h3>🌈 Follow Me 🌈</h3>
+<h3 align="center">🌈 Follow Me 🌈</h3>
 <br />
 <p>
 <!--  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flatsquare&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp -->
