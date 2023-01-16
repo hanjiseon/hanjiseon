@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=83EFB2&height=200&section=header&text=jiseon%20Han&fontSize=90" />
 </div>
 
-<div align="center">
+<div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />&nbsp
@@ -17,15 +17,15 @@
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
+
 <div>
 <h3 align="center">💻 My Github Stats 💻</h3>
 </div>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=vue)
 
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
+<p>
 <!--  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flatsquare&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp -->
   <a href="mailto:han003626@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=han003626@gmail.com"/></a>
 </p>
