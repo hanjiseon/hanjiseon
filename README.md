@@ -21,7 +21,6 @@
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
-<br />
 
 <h3 align="center">💻 My Github Stats 💻</h3>
 
@@ -29,7 +28,6 @@
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=vue)
 </div>
-<br />
 
 <h3 align="center">✨ Follow Me ✨</h3>
 <p align="center">
