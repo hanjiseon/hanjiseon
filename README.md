@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=200&section=header&text=jiseon%20Han&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6CE99A&height=200&section=header&text=jiseon%20Han&fontSize=90" />
 </div>
 
 <h3 align="center">📚 Platforms & Languages 📚</h3>
@@ -27,7 +27,7 @@
 
 <div align="center">
 	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=defualt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=vue)
 </div>
 <br />
 
