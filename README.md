@@ -20,8 +20,10 @@
 <div>
 <h3 align="center">💻 My Github Stats 💻</h3>
 </div>
-	
+
+<div>	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=vue)
+</div>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
