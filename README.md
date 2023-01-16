@@ -30,5 +30,5 @@
 <h3 align="center">✨ Contact ✨</h3>
 <p align="center">
   <a href="mailto:han003626@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=han003626@gmail.com"/></a>&nbsp
-<a href="https://velog.io/@hanjiseon"><img src="https://img.shields.io/badge/velog-11B48A style=flatsquare&logo=Vimeo&logoColor=white&link=https://velog.io/@hanjiseon"/></a
+<a href="https://velog.io/@hanjiseon"><img src="https://img.shields.io/badge/Velog-20C997? style=flatsquare&logo=Vimeo&logoColor=white&link=https://velog.io/@hanjiseon"/></a
 </p>
