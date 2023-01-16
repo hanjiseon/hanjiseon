@@ -19,6 +19,8 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjiseon&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true">
 
 
 
