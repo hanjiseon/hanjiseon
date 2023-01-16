@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">📚 Platforms & Languages 📚</h3>
-<p align="center">Tech that l've used at least once</p><br />
+<p align="center">Tech that l've used at least once</p>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />&nbsp
