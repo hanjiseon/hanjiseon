@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=75ECA0&height=200&section=header&text=jiseon%20Han&fontSize=90" />
 </div>
 
-<h3 align="center">📚 Platforms & Languages 📚</h3><hr>
-<div align="center">
+<h3 align="center">📚 Platforms & Languages 📚</h3>
+<div align="center"><hr>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />&nbsp
