@@ -16,13 +16,10 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=default)
-[![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=hanjiseon&langs_count=10&layout=compact)]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=vue)
 
 
 
