@@ -18,9 +18,9 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=vue)
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
