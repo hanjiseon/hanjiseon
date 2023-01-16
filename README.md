@@ -19,18 +19,11 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjiseon&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true">
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="center">My Github Stats</h3>
 <div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=vue)
 </div>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjiseon&show_icons=true&theme=radical)
-
 
 
 
