@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6CE99A&height=175&section=header&text=jiseon%20Han&fontSize=70" />
 </div>
 
-<h4 align="center">📚 Platforms & Languages 📚</h4>
+<h3 align="center">📚 Platforms & Languages 📚</h3>
 <p align="center">Tech that l've used at least once</p>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
@@ -23,7 +23,7 @@
 </div>
 <br />
 
-<h2 align="center">💻 My Github Stats 💻</h2>
+<h3 align="center">💻 My Github Stats 💻</h3>
 
 <div align="center">
 	
@@ -31,7 +31,7 @@
 </div>
 <br />
 
-<h2 align="center">✨ Follow Me ✨</h2>
+<h3 align="center">✨ Follow Me ✨</h3>
 <p align="center">
 <!--  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flatsquare&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp -->
   <a href="mailto:han003626@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=han003626@gmail.com"/></a>
